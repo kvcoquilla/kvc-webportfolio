@@ -1,0 +1,166 @@
+/*font-family: 'Bebas Neue', cursive;
+font-family: 'Bellota Text', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Scope One', serif;*/
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.landing {
+	width: 100%;
+	height: 100vh;
+	background: url(../images/background-pic.jpg);
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	align-items: center;
+	top: 40%;
+}
+
+h1 {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 50px;
+	color: #630A10;
+}
+
+#about-me-title {
+	color: #EEEBDD;
+}
+
+#about-me-bg {
+	background-color: #4F0E0E;
+}
+
+
+#my-description-col {
+	border-style: dashed ;
+	border-color: #EEEBDD;
+}
+
+#my-description {
+	color: #FCF0C8;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+#tools-all > p {
+	margin: 0px;
+
+}
+
+#tools-all > i {
+	font-size: 30px;
+}
+
+
+
+#tools {
+	background-color: #EEEBDD;
+}
+
+#skills {
+	background-color: #4F0E0E;
+}
+
+#skills > div > h1 {
+
+	color: #EEEBDD;
+}
+
+
+
+
+
+#exp-bg {
+	background-color: #EEEBDD;
+}
+
+#exp-buttons {
+	color: #ECB390;
+}
+
+#exp-main > p {
+	padding: 0px 3px 0px 0px;
+	margin: 0px;
+}
+
+#exp-role {
+	font-size: 30px;
+	font-family: 'Bebas Neue', cursive;
+}
+
+h5 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	color: #FCF0C8;
+}
+
+.card-body > p {
+	font-weight: bold;
+	color: #630000;
+
+}
+
+.card-body {
+	border-style: dotted;
+}
+
+.card-body > ul {
+	list-style: none;
+}
+#bar-color {
+	background-color: #DE6B35;
+}
+
+#headingOne {
+	background-color: #6B011F;
+}
+#headingTwo {
+	background-color: #6B011F;
+}
+#headingThree {
+	background-color: #6B011F;
+}
+#headingFour {
+	background-color: #6B011F;
+}
+#headingFive {
+	background-color: #6B011F;
+}
+
+
+footer > div > p {
+	margin-bottom: 0px;
+}
+
+
+#contact {
+	padding: 130px  0px;
+
+}
+
+#email-me{
+	background-color: #EEEBDD;
+}
+
+
+
+.footer {
+	background-color: #1B1717;
+}
+
+form {
+	color: #4F0E0E;
+}
+
+#footer-content > p {
+	margin-bottom: 5px;
+}
+
+#footer-content > i {
+	font-size: 10px ;
+}
